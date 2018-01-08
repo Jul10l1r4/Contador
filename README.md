@@ -1,5 +1,5 @@
 # Contador de views 👀 
->  Projeto original (@Jul10l1r4)[https://notabug.org/Jul10l1r4/Contador]
+>  Projeto original [@Jul10l1r4](https://notabug.org/Jul10l1r4/Contador)
 
 Um simples contador, onde uso funções básicas da linguagem PHP, atênção o seu PHP deve ser uma versão a mais da que a quarta, você pode conferir usando o seguinte código no terminal do servidor:
 ```bash
