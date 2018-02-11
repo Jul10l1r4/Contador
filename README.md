@@ -27,5 +27,5 @@ Feito? agora, você precisa dar a permissão de nossa página mudar o que existe
 
 > Agora, estude o código e  use onde quiser, você pode mudar o lugar do arquivo views, faça como quiser
 
-## Esse projeto é livre sob liceça GPL-3 🐏
- Use e abuse, cite-me e estará tudo certo 😸. Leia sobre a licença [GPL-3](https://www.gnu.org/licenses/gpl-3.0-standalone.html)
+## Esse projeto é livre sob liceça GNU GPL-3 🐏
+ Use e abuse, cite-me e estará tudo certo 😸. Leia sobre a licença [GNU GPL-3](https://www.gnu.org/licenses/gpl-3.0-standalone.html)
